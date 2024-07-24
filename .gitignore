@@ -1,0 +1,13 @@
+*.pyc
+.vscode
+output
+build
+output/
+point_e_model_cache/
+resources/
+exp/
+__pycache__/
+lora_diffusion/
+lora_model/
+run_file/
+load/

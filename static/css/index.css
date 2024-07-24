@@ -119,10 +119,13 @@ body {
   overflow: hidden;
   padding: 20px;
   font-size: 0;
+  text-align: center;
 }
 
 .results-carousel video {
   margin: 0;
+  height: 384px;
+  width: 384px;
 }
 
 .slider-pagination .slider-page {
